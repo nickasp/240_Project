@@ -1,17 +1,3 @@
-/*
- * ============================================
- * file: voting.h
- * @Author Myron Tsatsarakis (myrontsa@csd.uoc.gr)
- * @Version 26/11/2024
- *
- * @e-mail hy240@csd.uoc.gr
- *
- * @brief Structure and function declarations
- *        for CS240 Project Phase 2,
- *        Winter Semester 2024-2025
- * ============================================
- */
-
 #ifndef VOTING_H
 #define VOTING_H
 
